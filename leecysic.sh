@@ -58,7 +58,7 @@ while true; do
   
     echo "请选择命令:"
     echo "1. 下载配置环境并设置地址"
-    echo "2. 启动验证器"
+    echo "2. 启动验证器"（有点bug，启动时候必须在cysic-verifier这个文件夹的父目录）
     echo "3. 停止验证器"
     echo "4. 更新验证者（自动停止跟启动）"
     echo "5. 查看日志"
