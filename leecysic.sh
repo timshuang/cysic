@@ -107,10 +107,10 @@ while true; do
 
         3)
             # 停止验证器
-            echo "正在停止并删除验证器..."
+            echo "正在停止验证器..."
             pm2 stop cysic-verifier
             #pm2 delete cysic-verifier
-            echo "验证器已停止并删除，返回主菜单..."
+            echo "验证器已停止，返回主菜单..."
             ;;
 
         4)
