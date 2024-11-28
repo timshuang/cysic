@@ -161,7 +161,7 @@ while true; do
 	    else
     		echo "操作已取消。"
 	    fi
-
+	    ;;
         0)
             # 退出脚本
             echo "退出脚本..."
